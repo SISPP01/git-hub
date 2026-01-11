@@ -1,5 +1,9 @@
 Park Hyatt Seoul
 [Hotel Information]
+606, Teheran-ro
+Checkin 3:00 p.m.
+Checkout 12:00 p.m.
 
 [Convenience facilities]
-
+- Wifi
+- One bed
